@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "firstName": "fahd",
+      "email": "fahdezbotsfahd@gmail.com0",
+      "password": "fahdfady123",
+      "id": 1
+    },
+    {
+      "firstName": "fahd",
+      "email": "fahdezbotsfahd@21312311.com0",
+      "password": "fahdfady123",
+      "id": 2
+    }
+  ],
+  "recommended": [
+    {
+      "id": 1,
+      "name": "barbatos",
+      "sales": "53",
+      "review": ""
+    },
+    {
+      "id": 2,
+      "name": "barbatos",
+      "sales": "53",
+      "review": ""
+    },
+    {
+      "id": 3,
+      "name": "barbatos",
+      "sales": "53",
+      "review": ""
+    },
+    {
+      "id": 4,
+      "name": "barbatos",
+      "sales": "53",
+      "review": ""
+    },
+    {
+      "id": 5,
+      "name": "barbatos",
+      "sales": "53",
+      "review": ""
+    },
+    {
+      "id": 6,
+      "name": "barbatos",
+      "sales": "53",
+      "review": ""
+    },
+    {
+      "id": 7,
+      "name": "barbatos",
+      "sales": "53",
+      "review": ""
+    },
+    {
+      "id": 8,
+      "name": "barbatos",
+      "sales": "53",
+      "review": ""
+    }
+  ],
+  "service": [
+    {
+      "id": 1,
+      "username": "fahd",
+      "userimage": "",
+      "serviceimage": "",
+      "tag": "popular",
+      "title": "lorem ipsum dolor"
+    },
+    {
+      "id": 2,
+      "username": "fahd",
+      "userimage": "img",
+      "serviceimage": "",
+      "tag": "popular",
+      "title": "lorem ipsum dolor"
+    },
+    {
+      "id": 3,
+      "username": "fahd",
+      "userimage": "",
+      "serviceimage": "",
+      "tag": "popular",
+      "title": "lorem ipsum dolor"
+    },
+    {
+      "id": 4,
+      "username": "fahd",
+      "userimage": "",
+      "serviceimage": "",
+      "tag": "popular",
+      "title": "lorem ipsum dolor"
+    },
+    {
+      "id": 5,
+      "username": "fahd",
+      "userimage": "",
+      "serviceimage": "",
+      "tag": "popular",
+      "title": "lorem ipsum dolor"
+    },
+    {
+      "id": 6,
+      "username": "fahd",
+      "userimage": "",
+      "serviceimage": "",
+      "tag": "popular",
+      "title": "lorem ipsum dolor"
+    },
+    {
+      "id": 7,
+      "username": "fahd",
+      "userimage": "",
+      "serviceimage": "",
+      "tag": "recent"
+    },
+    {
+      "id": 8,
+      "username": "fahd",
+      "userimage": "",
+      "serviceimage": "",
+      "tag": "recent"
+    },
+    {
+      "id": 9,
+      "username": "fahd",
+      "userimage": "",
+      "serviceimage": "",
+      "tag": "recent"
+    },
+    {
+      "id": 10,
+      "username": "fahd",
+      "userimage": "",
+      "serviceimage": "",
+      "tag": "recent"
+    }
+  ]
+}
